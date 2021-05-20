@@ -33,3 +33,9 @@ _(*to keep in mind)_
 ## Ways of working
 ### Code
 - [Stacked Diffs Versus Pull Requests](https://jg.gg/2018/09/29/stacked-diffs-versus-pull-requests/)
+
+
+## Personal development
+### Books
+- [Books summaries 🔗](./BOOKS.md)
+
