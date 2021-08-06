@@ -29,6 +29,7 @@ _(*to keep in mind)_
 - [How to pick more beautiful colors for your data visualizations](https://blog.datawrapper.de/beautifulcolors/)
 
 ### Resources
+- [Free & Open Source Design Assets](https://openby.design/)
 - [Design resources for developers](https://github.com/bradtraversy/design-resources-for-developers)
 
 ## Security
