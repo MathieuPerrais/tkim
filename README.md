@@ -19,6 +19,7 @@ _(*to keep in mind)_
 
  ### Libraries
  - [Curated useful libraries 🔗](./LIBRARIES.md)
+ - [Apple's WWDC Sample code](https://developer.apple.com/sample-code/)
 
 
 ## Management
