@@ -4,10 +4,22 @@ _(*to keep in mind)_
 ## Programming
 
 ### Architecture
-- Rob Napier's serie on clearing the misconceptions about Protocol Oriented Programming and avoiding [PAT](a "Protocol with an Associated Type") if possible.
+- Basem Emara's series on "Building a Scalable App"
+  - [Swifty Localization with Xcode Support](https://zamzam.io/swifty-localization-xcode-support/)
+  - [Protocol-Oriented Routing in Swift](https://zamzam.io/protocol-oriented-router-in-swift/)
+  - [Swifty Protocol-Oriented Dependency Injection](https://zamzam.io/swift-protocol-oriented-dependency-injection/)
+  - [So Swift, So Clean Architecture for iOS](https://zamzam.io/swift-clean-architecture/)
+  - [Protocol-Oriented Themes for iOS Apps](https://zamzam.io/protocol-oriented-themes-for-ios-apps/)
+  - [Swift Dependency Injection via Property Wrapper](https://zamzam.io/swift-dependency-injection-via-property-wrapper/)
+  - [Building a Scalable SwiftUI Architecture](https://zamzam.io/building-scalable-swiftui-architecture-app/)
+  
+
+- Rob Napier's series on clearing the misconceptions about Protocol Oriented Programming and avoiding [PAT](a "Protocol with an Associated Type") if possible.
   - [Start with a protocol](https://robnapier.net/start-with-a-protocol)
   - [Protocols Are Nonconformists](https://robnapier.net/nonconformist)
   - **[A Mockery of Protocols](https://robnapier.net/a-mockery-of-protocols)**
+
+
 
 ### Design and Accessibility
 - [A Best-in-Class iOS App](https://www.swiftjectivec.com/a-best-in-class-app/)
@@ -44,6 +56,9 @@ _(*to keep in mind)_
 
 ### Estimation
 - [Jacob Kaplan-Moss estimation series](https://jacobian.org/series/estimation/)
+
+### Interviewing
+- [How to write a great thank-you email after an interview](https://arc.dev/blog/thank-you-email-after-interview-bwjz2uh3nz)
 
 ## Personal development
 ### Books
