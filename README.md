@@ -19,6 +19,7 @@ _(*to keep in mind)_
   - [Protocols Are Nonconformists](https://robnapier.net/nonconformist)
   - **[A Mockery of Protocols](https://robnapier.net/a-mockery-of-protocols)**
 
+- [Modern MVVM iOS App Architecture with Combine and SwiftUI](https://www.vadimbulavin.com/modern-mvvm-ios-app-architecture-with-combine-and-swiftui/)
 
 
 ### Design and Accessibility
