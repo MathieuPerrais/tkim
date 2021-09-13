@@ -12,7 +12,6 @@ _(*to keep in mind)_
   - [Protocol-Oriented Themes for iOS Apps](https://zamzam.io/protocol-oriented-themes-for-ios-apps/)
   - [Swift Dependency Injection via Property Wrapper](https://zamzam.io/swift-dependency-injection-via-property-wrapper/)
   - [Building a Scalable SwiftUI Architecture](https://zamzam.io/building-scalable-swiftui-architecture-app/)
-  
 
 - Rob Napier's series on clearing the misconceptions about Protocol Oriented Programming and avoiding [PAT](a "Protocol with an Associated Type") if possible.
   - [Start with a protocol](https://robnapier.net/start-with-a-protocol)
@@ -21,7 +20,7 @@ _(*to keep in mind)_
 
 - [Modern MVVM iOS App Architecture with Combine and SwiftUI](https://www.vadimbulavin.com/modern-mvvm-ios-app-architecture-with-combine-and-swiftui/)
 
-
+- [Adding Intelligent Code Generation to Swift Projects With SourceKit](https://betterprogramming.pub/adding-intelligent-code-generation-to-swift-projects-with-sourcekit-d9e029efa755)
 ### Design and Accessibility
 - [A Best-in-Class iOS App](https://www.swiftjectivec.com/a-best-in-class-app/)
 
