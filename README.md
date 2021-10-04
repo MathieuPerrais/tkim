@@ -58,6 +58,7 @@ _(*to keep in mind)_
 - [Jacob Kaplan-Moss estimation series](https://jacobian.org/series/estimation/)
 
 ### Interviewing
+- [Get that job at Google](http://steve-yegge.blogspot.com/2008/03/get-that-job-at-google.html)
 - [How to write a great thank-you email after an interview](https://arc.dev/blog/thank-you-email-after-interview-bwjz2uh3nz)
 
 ## Personal development
